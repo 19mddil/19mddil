@@ -40,14 +40,16 @@
 
 </section>
 </main>
- <footer>
-	<p>Contact Me: 
-		<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" width="25px" height="25px" title="Stackoverflow"/>&nbsp;&nbsp;
-		<img src="https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico" width="25px" height="25px" title="Facebook"/>&nbsp;&nbsp;
-<img src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc" width="25px" height="25px" title="LinkedIn"/>&nbsp;&nbsp;
-<img src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/favicon-32x32.png?_rev=20200425190226" width="25px" height="25px" title="Stopstalk"/>&nbsp;&nbsp;
-
-	<p>Also You can mail me in my personal email account: <a href="mailto:mddilshadul98@19mddilshad.xyz">mddilshadul98@19mddilshad.xyz</a> </p>
+<footer>
+<p>Contact Me: 
+		<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" width="25px" height="25px" 						title="Stackoverflow"/>&nbsp;&nbsp;
+		<img 
+		     src="https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico" width="25px" height="25px" title="Facebook"/>&nbsp;&nbsp;
+		<img 
+		     src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc" width="25px" height="25px" title="LinkedIn"/>&nbsp;&nbsp;
+		<img 
+		     src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/favicon-32x32.png?_rev=20200425190226" width="25px" height="25px" 			title="Stopstalk"/>&nbsp;&nbsp;</p><p>Also You can mail me in my personal email account: <a href="mailto:mddilshadul98@19mddilshad.xyz">mddilshadul98@19mddilshad.xyz</a> </p>
+	
 </footer>
 </body>
 </html>
