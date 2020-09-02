@@ -29,6 +29,7 @@
 		      	<li>Responsive Web Design(Updated HTML5 using semantic markup tags,js,Bootstrap)</li>
 		      	<li>Well familliar with protocols like <a href="https://tools.ietf.org/html/rfc2616">HTTP</a>,<a href="https://tools.ietf.org/html/rfc2660">HTTPS</a>,<a href="https://tools.ietf.org/html/rfc959">FTP</a> and server ports(25,80,443)</li>
 		      	<li>Also greatly familiar with cpanel,ftp accounts(Filezilla),ssh shared server access,linux(Debian) cmd line superuser experinece</li>
+			    <li>Adobe Illustrator vector drawing</li>
 			     <li>বাংলা টাইপ,ইউনিকোড/ফন্ট:Nirmala UI(বিজয় বায়ান্ন)</li>
 			   
 </ul>
