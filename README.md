@@ -51,6 +51,7 @@
 </main>
 <footer>
 <hr><p>Also You can mail me in my personal email account: <a href="mailto:mddilshadul98@19mddilshad.xyz">mddilshadul98@19mddilshad.xyz</a> </p>
+	<p>Or If you prefer Gmail: <a href="mailto:mddilshadul98@gmail.com">mddilshadul98@gmail.com</a></p>
 	
 </footer>
 </body>
