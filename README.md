@@ -1,13 +1,4 @@
-<!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
 <!DOCTYPE html>
 <html ln="en">
 <head>
@@ -17,8 +8,8 @@
 <body>
   	<header>
 		<h1>Md.Dilshadul Islam(Md.Dilshad/19mddil)🌱</h1>
-		
 		<h2>You can visit my Portfolio WebPage: <a href="http://www.19mddilshad.xyz">www.19mddilshad.xyz</a></h2>
+		<h3><img src="http://i.imgur.com/tXSoThF.png" /><img src="http://i.imgur.com/P3YfQoD.png"/></h3>
   	</header>
   	<main>
 <section>
