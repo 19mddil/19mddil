@@ -31,7 +31,7 @@
 		      	<li>Database Administrative works:-
 		        	<ul>
 		          		<li>Data Modeling(ER),Joining Tables,One to Many/Many to Many Relations,</li>
-		          		<li>Indexing and Hashing,</li>
+		          		<li>Indexing and Hashing,Triggers</li>
 		          		<li>ACID properties of Transcation,Concurency Control,Data Recovery</li>
 		        	</ul>
 		      	</li>
