@@ -24,7 +24,7 @@
 		    <p>Hi,I am software developer currently unemployed or without business:(.The deeper I dive into programming the more I discover new worlds                            which inspires me     to learn more and entreprenuerial notion guides my heart. My specialities are -
 		    <ul>
 		      	<li>Writing scripts for client or server using python.(socket connection in different ports mostly 80)</li>
-		      	<li>Read json or xml data from API's(GeoCodeing API,Twitter API,Ouath maintain) and storing them in database.</li>
+		      	<li>Read json or xml data from REST API's(GeoCodeing API,Twitter API,Ouath maintain) and storing them in database.</li>
 		      	<li>Writing DRY and Clean Code(Encountered while scripting php in html pages)</li>
 		      	<li>Version Controling(branching,rebasing,forking,pull request,issues on github from cmd and git)
 		      	<li>Object oriented and Multithread Programming(Java)</li>
