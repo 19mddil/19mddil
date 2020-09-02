@@ -3,6 +3,7 @@
 <html ln="en">
 <head>
 	<meta charset="utf-8">
+	<script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script>
 </head>
 <body>
   	<header>
