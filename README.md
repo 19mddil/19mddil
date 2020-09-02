@@ -29,6 +29,8 @@
 		      	<li>Responsive Web Design(Updated HTML5 using semantic markup tags,js,Bootstrap)</li>
 		      	<li>Well familliar with protocols like <a href="https://tools.ietf.org/html/rfc2616">HTTP</a>,<a href="https://tools.ietf.org/html/rfc2660">HTTPS</a>,<a href="https://tools.ietf.org/html/rfc959">FTP</a> and server ports(25,80,443)</li>
 		      	<li>Also greatly familiar with cpanel,ftp accounts(Filezilla),ssh shared server access,linux(Debian) cmd line superuser experinece</li>
+			     <li>বাংলা টাইপ,ইউনিকোড/ফন্ট:Nirmala UI(বিজয় বায়ান্ন)</li>
+			   
 </ul>
 		    Also I have some fun with Java creating a beatbox music software and some multitheading MVC console applications,in addition at a time I was working with algorithms(Graph,Greedy,Sorting,String etc),progrming paradigms(complete search,dynamic programming,devide and conqure etc),data structes(stack,queue,map,binary search tree,Disjoint Sets etc) for becoming a better programmer using better data structure to solve different problems with C/C++ and developped some desktop application with database management system for swing(java) and .NET(c#) applications. Currently I am learning about agile development &amp; lean startup methodologies and applied data science. I am also woking on two personal projects one for my portfolio&amp;blogs and another for my ecommerce website on my shared hosting server which will be completed in two months schedule from which ecommerce website will be available in github pages.My Goal is learn software product management &amp; agile development so that I do not write code that nobody wants.
 </p>
