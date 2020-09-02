@@ -1,14 +1,4 @@
-
-<!DOCTYPE html>
-<html ln="en">
-<head>
-	<meta charset="utf-8">
-	<!-- script src="http://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script -->
-</head>
-<body>
-  	<header>
-		<h1>Md.Dilshadul Islam(Md.Dilshad/19mddil)🌱</h1>
-		<!-- icons with padding -->
+<!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -18,6 +8,16 @@
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
+<!DOCTYPE html>
+<html ln="en">
+<head>
+	<meta charset="utf-8">
+	<!-- script src="http://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script -->
+</head>
+<body>
+  	<header>
+		<h1>Md.Dilshadul Islam(Md.Dilshad/19mddil)🌱</h1>
+		
 		<h2>You can visit my Portfolio WebPage: <a href="http://www.19mddilshad.xyz">www.19mddilshad.xyz</a></h2>
   	</header>
   	<main>
