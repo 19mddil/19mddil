@@ -3,12 +3,12 @@
 <html ln="en">
 <head>
 	<meta charset="utf-8">
-	<!-- script src="https://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script -->
+	<!-- script src="http://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script -->
 </head>
 <body>
   	<header>
 		<h1>Md.Dilshadul Islam(Md.Dilshad/19mddil)🌱</h1>
-		<h2>Visit My Portfolio WebPage: <a href="www.19mddilshad.xyz">www.19mddilshad.xyz</a></h2>
+		<h2>Visit My Portfolio WebPage: <a href="http://www.19mddilshad.xyz">www.19mddilshad.xyz</a></h2>
   	</header>
   	<main>
 <section>
