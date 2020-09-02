@@ -1,7 +1,4 @@
-[stackoverflow](https://stackoverflow.com/users/10853066/mohammed-dilshad)
-[stopstalk](https://www.stopstalk.com/user/profile/19mddilshad)
-[hackerrank](https://www.hackerrank.com/mddilshadul98)
-[linkedin](https://www.linkedin.com/in/md-dilshadul-01b721199/)
+
 <!DOCTYPE html>
 <html ln="en">
 <head>
