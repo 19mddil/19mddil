@@ -8,7 +8,7 @@
 <body style="font-family:Monospace;">
   	<header>
 		<h1>Md.Dilshadul Islam(Md.Dilshad/19mddil)🌱</h1>
-		<h3 style="color:red">Code,Add Features,Commit(pull,edit,push each time on new features[Branch if needed :`)] )</h3>
+		<h3 style="color:red">Code,Add Features,Commit( pull,edit,push each time on new features[ Branch if needed :`) ] )</h3>
 		<p>Contact Me: 
 		<a href="https://stackoverflow.com/users/10853066/mohammed-dilshad"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" width="25px" height="25px" 						title="Stackoverflow"/></a>&nbsp;&nbsp;
 		<a href="https://www.facebook.com/19womanizer"><img 
