@@ -15,9 +15,9 @@ Hi,I am software developer currently unemployed or without business:(.The deeper
 - Version Controling(branching,rebasing,forking,pull request,issues on github from cmd and git)
 - Object oriented and Multithread Programming(Java)
 - Database Administrative works:-
- - Data Modeling(ER),Joining Tables,One to Many/Many to Many Relations,
- - Indexing and Hashing,Triggers 
- - ACID properties of Transcation,Concurency Control,Data Recovery
+    - Data Modeling(ER),Joining Tables,One to Many/Many to Many Relations,
+    - Indexing and Hashing,Triggers 
+    - ACID properties of Transcation,Concurency Control,Data Recovery
 - Well familliar with protocols like [HTTP](https://tools.ietf.org/html/rfc2616),[HTTPS](https://tools.ietf.org/html/rfc2660),[FTP] (https://tools.ietf.org/html/rfc959) and server ports(25,80,443)
 - Also greatly familiar with cpanel,ftp accounts(Filezilla),ssh shared server access,linux(Debian) cmd line superuser experinece</li>
 - Adobe Illustrator vector drawing
