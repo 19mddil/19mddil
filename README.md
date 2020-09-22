@@ -9,9 +9,9 @@ Hi,I am software developer.Currently I am developing my skills more by implement
 - Writing DRY and Clean Code(Encountered while modelling data and using  generalized view like base html in django and scripting php in html pages)
 - Version Controling(branching,rebasing,forking,pull request,code issues on github from commandline using git)
 - Object Oriented Modeling Software Design and Multithread Programming(Java)
-    -Abstraction([CRC](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card) ,[UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language))
-    -Encapsulation
-    -Decomposition
+    -Astraction([CRC](https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card) ,[UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language))
+    - Ecapsulation
+    - ecomposition
         -Association
         -Aggregation
         -Composition
