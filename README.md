@@ -25,7 +25,5 @@ Hi,I am software developer currently unemployed or without business:(.The deeper
 
 Also I have some fun with Java creating a beatbox music software and some multitheading MVC console applications,in addition at a time I was working with algorithms(Graph,Greedy,Sorting,String etc),progrming paradigms(complete search,dynamic programming,devide and conqure etc),data structes(stack,queue,map,binary search tree,Disjoint Sets etc) for becoming a better programmer using better data structure to solve different problems with C/C++ and developped some desktop application with database management system for swing(java) and .NET(c#) applications. Currently I am learning about agile development &amp; lean startup methodologies and applied data science. I am also woking on two personal projects one for my portfolio&amp;blogs and another for my ecommerce website on my shared hosting server which will be completed in two months schedule from which ecommerce website will be available in github pages.My Goal is learn software product management &amp; agile development so that I do not write code that nobody wants.
 
-Also You can mail me in my personal email account:[mddilshadul98@19mddilshad.xyz](mailto:mddilshadul98@19mddilshad.xyz)
-
-
+Also You can mail me in my personal email account:[mddilshadul98@19mddilshad.xyz](mailto:mddilshadul98@19mddilshad.xyz)\
 Or If you prefer Gmail: [mddilshadul98@gmail.com](mailto:mddilshadul98@gmail.com)
