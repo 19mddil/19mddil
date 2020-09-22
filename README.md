@@ -1,16 +1,8 @@
+# Md.Dilshadul Islam(Md.Dilshad/19mddil)🌱
 
-<!DOCTYPE html>
-<html ln="en">
-<head>
-	<meta charset="utf-8">
-	<!-- script src="http://kit.fontawesome.com/2c012d6c99.js" crossorigin="anonymous"></script -->
-</head>
-<body style="font-family:Monospace;">
-  	<header>
-		<h1>Md.Dilshadul Islam(Md.Dilshad/19mddil)🌱</h1>
-		<h3 style="color:red">Pull,Commit,Push( each time on new features[ Branch if needed :`) ] )</h3>
-		<p>Contact Me: 
-		<a href="https://stackoverflow.com/users/10853066/mohammed-dilshad"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" width="25px" height="25px" 						title="Stackoverflow"/></a>&nbsp;&nbsp;
+Pull,Commit,Push( each time on new features\[ Branch if needed \:\`) ] )
+Contact Me: 
+[<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" width="25px" height="25px" 						title="Stackoverflow"/>](https://stackoverflow.com/users/10853066/mohammed-dilshad)
 		<a href="https://www.facebook.com/19womanizer"><img 
 		     src="https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico" width="25px" height="25px" title="Facebook"/></a>&nbsp;&nbsp;
 		<a href="https://www.linkedin.com/in/md-dilshadul-01b721199/"><img 
