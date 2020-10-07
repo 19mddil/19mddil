@@ -14,7 +14,7 @@ Pull,Commit,Push( each time on new features\[Branch if needed\:\`)] )
 ### About Me
 <img align="right" alt="GIF" src="coffee.gif?raw=true"/>  
 
-Hi,I am software developer.Currently I am developing my skills more by implementing some projects from scatch so that I develop habit to write clean and DRY code which will be reusable,flexible. I like java for its object oriented paradigm and python for its simplicity and readability. Currently I am using both languages for software design ,architect level, applied data science and using beautiful django framework. Also I am investigating software product management, Software Design & architecture and agile development methodologies so I can code in a corporate environment where everybody works together and depends on each other with a view to not writing code that nobody wants. Some of my specialities are -
+<span style="font-size:11pt;">Hi,I am software developer.Currently I am developing my skills more by implementing some projects from scatch so that I develop habit to write clean and DRY code which will be reusable,flexible. I like java for its object oriented paradigm and python for its simplicity and readability. Currently I am using both languages for software design ,architect level, applied data science and using beautiful django framework. Also I am investigating software product management, Software Design & architecture and agile development methodologies so I can code in a corporate environment where everybody works together and depends on each other with a view to not writing code that nobody wants. Some of my specialities are -
 - Writing scripts for client or server ,modeling data in python.(socket connection in different ports commonly 80)
 - Read json or xml data from REST API's(GeoCodeing API,Twitter API,Ouath maintain) and storing them in database.
 - Writing DRY and Clean Code(Encountered while modelling data and using  generalized view like base html in django and scripting php in html pages)
@@ -39,4 +39,4 @@ Hi,I am software developer.Currently I am developing my skills more by implement
 - Adobe Illustrator vector drawing
 - বাংলা টাইপ,ইউনিকোড/ফন্ট:Nirmala UI(বিজয় বায়ান্ন)
 Also You can mail me in my personal email account:[mddilshadul98@19mddilshad.xyz](mailto:mddilshadul98@19mddilshad.xyz)\
-Or If you prefer Gmail: [mddilshadul98@gmail.com](mailto:mddilshadul98@gmail.com)
+Or If you prefer Gmail: [mddilshadul98@gmail.com](mailto:mddilshadul98@gmail.com)</span>
