@@ -39,4 +39,5 @@ Pull,Commit,Push( each time on new features\[Branch if needed\:\`)] )
 - Adobe Illustrator vector drawing
 - বাংলা টাইপ,ইউনিকোড/ফন্ট:Nirmala UI(বিজয় বায়ান্ন)
 Also You can mail me in my personal email account:[mddilshadul98@19mddilshad.xyz](mailto:mddilshadul98@19mddilshad.xyz)\
-Or If you prefer Gmail: [mddilshadul98@gmail.com](mailto:mddilshadul98@gmail.com)</span>
+Or If you prefer Gmail: [mddilshadul98@gmail.com](mailto:mddilshadul98@gmail.com)
+</span>
