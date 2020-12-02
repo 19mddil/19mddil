@@ -10,6 +10,7 @@
 
 - Writing scripts for client or server ,modeling data in python.(socket connection in different ports commonly 80)
 - Read json or xml data from REST API's(GeoCodeing API,Twitter API,Ouath maintain) and storing them in database.
+
 - Writing DRY and Clean Code(Encountered while modelling data and using  generalized view like base html in django and scripting php in html pages)
 - Version Controling(branching,rebasing,forking,pull request,code issues on github from commandline using git)
 - Object Oriented Modeling Software Design and Multithread Programming(Java)
