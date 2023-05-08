@@ -9,7 +9,7 @@ const Contact = () => (
             <img style={{
                 width: '110px',
                 height: '110px'
-            }} src="./assets/gif/coffee.gif" className="rounded-circle mt-2 mb-2 mx-auto d-block" alt="coffee" />
+            }} src="https://raw.githubusercontent.com/19mddil/19mddil/main/public/assets/gif/coffee.gif" className="rounded-circle mt-2 mb-2 mx-auto d-block" alt="coffee" />
 
             <ListGroup style={{ textAlign: 'left' }}>
                 <ListGroupItem
