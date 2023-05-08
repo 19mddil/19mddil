@@ -1,6 +1,14 @@
 .App {
-  text-align: center;
+  background-color: rgb(23, 22, 22);
+  color: white;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10%;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 10px black;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -32,6 +40,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
