@@ -5,6 +5,7 @@ import Contact from './Contact';
 import Projects from './Projects';
 import Skills from './Skills';
 import FavBooks from './FavBooks';
+import Certificates from './Certificates';
 
 class Main extends Component {
 
@@ -16,6 +17,7 @@ class Main extends Component {
                 <Route path='/contact' element={<Contact />} />
                 <Route path='/projects' element={<Projects />} />
                 <Route path='/favbooks' element={<FavBooks />} />
+                <Route path='/certificates' element={<Certificates />} />
             </Routes >
         )
     }
