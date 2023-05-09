@@ -16,7 +16,6 @@ const Layout = ({ title = 'Title', className, children }) => {
                 <div className={className}>
                     <div style={{
                         padding: '3%',
-                        borderLeft: '1px dashed grey',
                     }}>
                         {children}
                     </div>
